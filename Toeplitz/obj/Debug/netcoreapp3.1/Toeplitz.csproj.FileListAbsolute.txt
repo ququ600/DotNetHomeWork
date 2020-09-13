@@ -1,0 +1,13 @@
+F:\C#code\20200907\Toeplitz\bin\Debug\netcoreapp3.1\Toeplitz.exe
+F:\C#code\20200907\Toeplitz\bin\Debug\netcoreapp3.1\Toeplitz.deps.json
+F:\C#code\20200907\Toeplitz\bin\Debug\netcoreapp3.1\Toeplitz.runtimeconfig.json
+F:\C#code\20200907\Toeplitz\bin\Debug\netcoreapp3.1\Toeplitz.runtimeconfig.dev.json
+F:\C#code\20200907\Toeplitz\bin\Debug\netcoreapp3.1\Toeplitz.dll
+F:\C#code\20200907\Toeplitz\bin\Debug\netcoreapp3.1\Toeplitz.pdb
+F:\C#code\20200907\Toeplitz\obj\Debug\netcoreapp3.1\Toeplitz.csprojAssemblyReference.cache
+F:\C#code\20200907\Toeplitz\obj\Debug\netcoreapp3.1\Toeplitz.AssemblyInfoInputs.cache
+F:\C#code\20200907\Toeplitz\obj\Debug\netcoreapp3.1\Toeplitz.AssemblyInfo.cs
+F:\C#code\20200907\Toeplitz\obj\Debug\netcoreapp3.1\Toeplitz.csproj.CoreCompileInputs.cache
+F:\C#code\20200907\Toeplitz\obj\Debug\netcoreapp3.1\Toeplitz.dll
+F:\C#code\20200907\Toeplitz\obj\Debug\netcoreapp3.1\Toeplitz.pdb
+F:\C#code\20200907\Toeplitz\obj\Debug\netcoreapp3.1\Toeplitz.genruntimeconfig.cache

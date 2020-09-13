@@ -1,0 +1,12 @@
+F:\C#code\20200907\PrimeFactor\bin\Debug\netcoreapp3.1\PrimeFactor.exe
+F:\C#code\20200907\PrimeFactor\bin\Debug\netcoreapp3.1\PrimeFactor.deps.json
+F:\C#code\20200907\PrimeFactor\bin\Debug\netcoreapp3.1\PrimeFactor.runtimeconfig.json
+F:\C#code\20200907\PrimeFactor\bin\Debug\netcoreapp3.1\PrimeFactor.runtimeconfig.dev.json
+F:\C#code\20200907\PrimeFactor\bin\Debug\netcoreapp3.1\PrimeFactor.dll
+F:\C#code\20200907\PrimeFactor\bin\Debug\netcoreapp3.1\PrimeFactor.pdb
+F:\C#code\20200907\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.AssemblyInfoInputs.cache
+F:\C#code\20200907\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.AssemblyInfo.cs
+F:\C#code\20200907\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.csproj.CoreCompileInputs.cache
+F:\C#code\20200907\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.dll
+F:\C#code\20200907\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.pdb
+F:\C#code\20200907\PrimeFactor\obj\Debug\netcoreapp3.1\PrimeFactor.genruntimeconfig.cache

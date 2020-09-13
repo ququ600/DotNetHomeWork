@@ -1,0 +1,13 @@
+F:\C#code\20200907\CalculateArray\bin\Debug\netcoreapp3.1\CalculateArray.exe
+F:\C#code\20200907\CalculateArray\bin\Debug\netcoreapp3.1\CalculateArray.deps.json
+F:\C#code\20200907\CalculateArray\bin\Debug\netcoreapp3.1\CalculateArray.runtimeconfig.json
+F:\C#code\20200907\CalculateArray\bin\Debug\netcoreapp3.1\CalculateArray.runtimeconfig.dev.json
+F:\C#code\20200907\CalculateArray\bin\Debug\netcoreapp3.1\CalculateArray.dll
+F:\C#code\20200907\CalculateArray\bin\Debug\netcoreapp3.1\CalculateArray.pdb
+F:\C#code\20200907\CalculateArray\obj\Debug\netcoreapp3.1\CalculateArray.csprojAssemblyReference.cache
+F:\C#code\20200907\CalculateArray\obj\Debug\netcoreapp3.1\CalculateArray.AssemblyInfoInputs.cache
+F:\C#code\20200907\CalculateArray\obj\Debug\netcoreapp3.1\CalculateArray.AssemblyInfo.cs
+F:\C#code\20200907\CalculateArray\obj\Debug\netcoreapp3.1\CalculateArray.csproj.CoreCompileInputs.cache
+F:\C#code\20200907\CalculateArray\obj\Debug\netcoreapp3.1\CalculateArray.dll
+F:\C#code\20200907\CalculateArray\obj\Debug\netcoreapp3.1\CalculateArray.pdb
+F:\C#code\20200907\CalculateArray\obj\Debug\netcoreapp3.1\CalculateArray.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\C#code\20200907\Eratosthenes\bin\Debug\netcoreapp3.1\Eratosthenes.exe
+F:\C#code\20200907\Eratosthenes\bin\Debug\netcoreapp3.1\Eratosthenes.deps.json
+F:\C#code\20200907\Eratosthenes\bin\Debug\netcoreapp3.1\Eratosthenes.runtimeconfig.json
+F:\C#code\20200907\Eratosthenes\bin\Debug\netcoreapp3.1\Eratosthenes.runtimeconfig.dev.json
+F:\C#code\20200907\Eratosthenes\bin\Debug\netcoreapp3.1\Eratosthenes.dll
+F:\C#code\20200907\Eratosthenes\bin\Debug\netcoreapp3.1\Eratosthenes.pdb
+F:\C#code\20200907\Eratosthenes\obj\Debug\netcoreapp3.1\Eratosthenes.csprojAssemblyReference.cache
+F:\C#code\20200907\Eratosthenes\obj\Debug\netcoreapp3.1\Eratosthenes.AssemblyInfoInputs.cache
+F:\C#code\20200907\Eratosthenes\obj\Debug\netcoreapp3.1\Eratosthenes.AssemblyInfo.cs
+F:\C#code\20200907\Eratosthenes\obj\Debug\netcoreapp3.1\Eratosthenes.csproj.CoreCompileInputs.cache
+F:\C#code\20200907\Eratosthenes\obj\Debug\netcoreapp3.1\Eratosthenes.dll
+F:\C#code\20200907\Eratosthenes\obj\Debug\netcoreapp3.1\Eratosthenes.pdb
+F:\C#code\20200907\Eratosthenes\obj\Debug\netcoreapp3.1\Eratosthenes.genruntimeconfig.cache
