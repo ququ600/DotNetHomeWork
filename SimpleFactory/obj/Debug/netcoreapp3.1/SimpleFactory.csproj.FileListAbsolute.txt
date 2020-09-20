@@ -1,0 +1,13 @@
+F:\C#code\20200914\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.csprojAssemblyReference.cache
+F:\C#code\20200914\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.AssemblyInfoInputs.cache
+F:\C#code\20200914\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.AssemblyInfo.cs
+F:\C#code\20200914\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.csproj.CoreCompileInputs.cache
+F:\C#code\20200914\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.exe
+F:\C#code\20200914\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.deps.json
+F:\C#code\20200914\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.runtimeconfig.json
+F:\C#code\20200914\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.runtimeconfig.dev.json
+F:\C#code\20200914\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.dll
+F:\C#code\20200914\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.pdb
+F:\C#code\20200914\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.dll
+F:\C#code\20200914\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.pdb
+F:\C#code\20200914\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.genruntimeconfig.cache

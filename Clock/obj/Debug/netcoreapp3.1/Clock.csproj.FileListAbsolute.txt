@@ -1,0 +1,12 @@
+F:\C#code\20200914\Clock\bin\Debug\netcoreapp3.1\Clock.exe
+F:\C#code\20200914\Clock\bin\Debug\netcoreapp3.1\Clock.deps.json
+F:\C#code\20200914\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.json
+F:\C#code\20200914\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.dev.json
+F:\C#code\20200914\Clock\bin\Debug\netcoreapp3.1\Clock.dll
+F:\C#code\20200914\Clock\bin\Debug\netcoreapp3.1\Clock.pdb
+F:\C#code\20200914\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfoInputs.cache
+F:\C#code\20200914\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfo.cs
+F:\C#code\20200914\Clock\obj\Debug\netcoreapp3.1\Clock.csproj.CoreCompileInputs.cache
+F:\C#code\20200914\Clock\obj\Debug\netcoreapp3.1\Clock.dll
+F:\C#code\20200914\Clock\obj\Debug\netcoreapp3.1\Clock.pdb
+F:\C#code\20200914\Clock\obj\Debug\netcoreapp3.1\Clock.genruntimeconfig.cache

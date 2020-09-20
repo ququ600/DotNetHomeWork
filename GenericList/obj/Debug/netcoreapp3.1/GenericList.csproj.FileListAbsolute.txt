@@ -1,0 +1,13 @@
+F:\C#code\20200914\GenericList\bin\Debug\netcoreapp3.1\GenericList.exe
+F:\C#code\20200914\GenericList\bin\Debug\netcoreapp3.1\GenericList.deps.json
+F:\C#code\20200914\GenericList\bin\Debug\netcoreapp3.1\GenericList.runtimeconfig.json
+F:\C#code\20200914\GenericList\bin\Debug\netcoreapp3.1\GenericList.runtimeconfig.dev.json
+F:\C#code\20200914\GenericList\bin\Debug\netcoreapp3.1\GenericList.dll
+F:\C#code\20200914\GenericList\bin\Debug\netcoreapp3.1\GenericList.pdb
+F:\C#code\20200914\GenericList\obj\Debug\netcoreapp3.1\GenericList.csprojAssemblyReference.cache
+F:\C#code\20200914\GenericList\obj\Debug\netcoreapp3.1\GenericList.AssemblyInfoInputs.cache
+F:\C#code\20200914\GenericList\obj\Debug\netcoreapp3.1\GenericList.AssemblyInfo.cs
+F:\C#code\20200914\GenericList\obj\Debug\netcoreapp3.1\GenericList.csproj.CoreCompileInputs.cache
+F:\C#code\20200914\GenericList\obj\Debug\netcoreapp3.1\GenericList.dll
+F:\C#code\20200914\GenericList\obj\Debug\netcoreapp3.1\GenericList.pdb
+F:\C#code\20200914\GenericList\obj\Debug\netcoreapp3.1\GenericList.genruntimeconfig.cache
