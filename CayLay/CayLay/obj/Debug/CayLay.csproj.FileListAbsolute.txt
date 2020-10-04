@@ -1,0 +1,10 @@
+F:\C#code\CayLay\CayLay\bin\Debug\CayLay.exe.config
+F:\C#code\CayLay\CayLay\bin\Debug\CayLay.exe
+F:\C#code\CayLay\CayLay\bin\Debug\CayLay.pdb
+F:\C#code\CayLay\CayLay\obj\Debug\CayLay.Form1.resources
+F:\C#code\CayLay\CayLay\obj\Debug\CayLay.Properties.Resources.resources
+F:\C#code\CayLay\CayLay\obj\Debug\CayLay.csproj.GenerateResource.cache
+F:\C#code\CayLay\CayLay\obj\Debug\CayLay.csproj.CoreCompileInputs.cache
+F:\C#code\CayLay\CayLay\obj\Debug\CayLay.exe
+F:\C#code\CayLay\CayLay\obj\Debug\CayLay.pdb
+F:\C#code\CayLay\CayLay\obj\Debug\CayLay.csprojAssemblyReference.cache
