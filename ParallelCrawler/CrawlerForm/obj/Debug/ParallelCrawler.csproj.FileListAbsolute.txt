@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\ParallelCrawler\CrawlerForm\bin\Debug\CrawlerForm.exe.config
+C:\Users\Lenovo\Desktop\ParallelCrawler\CrawlerForm\bin\Debug\CrawlerForm.exe
+C:\Users\Lenovo\Desktop\ParallelCrawler\CrawlerForm\bin\Debug\CrawlerForm.pdb
+C:\Users\Lenovo\Desktop\ParallelCrawler\CrawlerForm\obj\Debug\ParallelCrawler.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ParallelCrawler\CrawlerForm\obj\Debug\CrawlerForm.Form1.resources
+C:\Users\Lenovo\Desktop\ParallelCrawler\CrawlerForm\obj\Debug\CrawlerForm.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ParallelCrawler\CrawlerForm\obj\Debug\ParallelCrawler.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ParallelCrawler\CrawlerForm\obj\Debug\ParallelCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ParallelCrawler\CrawlerForm\obj\Debug\CrawlerForm.exe
+C:\Users\Lenovo\Desktop\ParallelCrawler\CrawlerForm\obj\Debug\CrawlerForm.pdb
